@@ -1,0 +1,13 @@
+{
+  "name": "sbrp-websocket",
+  "version": "1.0.0",
+  "description": "WebSocket para fornecer dados em tempo real para aplicação SBRP",
+  "main": "index.js",
+  "author": "Lucas Lima <lucas.developmaster@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
